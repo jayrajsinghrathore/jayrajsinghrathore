@@ -68,7 +68,10 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
 </div>
 
-###
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/jayrajsinghrathore/jayrajsinghrathore/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://raw.githubusercontent.com/jayrajsinghrathore/jayrajsinghrathore/output/snake.svg" alt="Snake animation" />
 
