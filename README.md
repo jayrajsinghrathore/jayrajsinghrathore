@@ -69,13 +69,10 @@
 </div>
 
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/jayrajsinghrathore/jayrajsinghrathore/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://raw.githubusercontent.com/jayrajsinghrathore/jayrajsinghrathore/output/snake.svg" alt="Snake animation" />
-
-
-###
+##
 
 
